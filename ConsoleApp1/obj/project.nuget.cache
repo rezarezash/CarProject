@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhjPa3IIomH5hjreK0iI950Gc3yU8rLjOaAi3PZQrBHen5jVpBcJLehzGkMp8eBvHWGd2RFYxw/QgCQlBIXgKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shira\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\shira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\shira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
